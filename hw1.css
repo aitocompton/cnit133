@@ -1,0 +1,36 @@
+ <style type="text/css">
+        nav{ text-align: center;}
+        h2{
+                text-align: left;
+                font-style: oblique;
+        }
+
+        section {
+                background-color: white;
+                width: 600px;
+                height: 300px;
+                padding: 20px;
+                border: 1px solid navy;
+                margin: 25px auto;
+        }
+        body {
+                background-color:#33FFCC;
+                background: linear-gradient(-90deg, #00FF99,#CC99FF); /* Standard syntax */
+
+        }
+        a{
+                text-decoration: none;
+        }
+        a:hover{
+                color: rgb(200,200,256);
+                background-color: yellow;
+                text-decoration: underline;
+        }
+
+        .p{ text-align: center}
+        #p2{
+                margin-left: 500px;
+                margin-right: 600px;
+        }
+</style>
+
